@@ -20,7 +20,7 @@ const FormEditar = () => {
                 .then(response => setDataProyecto(response.data))
         }
         handledPutProyecto();
-    }, []);
+    }, [id]);
 
     const handleNombre = (e) => {
         setNombre(e.target.value);

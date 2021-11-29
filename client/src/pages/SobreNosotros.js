@@ -45,28 +45,28 @@ const SobreNosotros = () => {
                 <div className="row mt-4 mb-5">
 
                     <div className="col-lg-4">
-                        <div class="card" >
-                            <img src={Image1} class="card-img-top w-75 m-auto" alt="..." />
-                            <div class="card-footer text-muted">
-                                <p class="card-text text-center">Juan Sebastian</p>
+                        <div className="card" >
+                            <img src={Image1} className="card-img-top w-75 m-auto" alt="..." />
+                            <div className="card-footer text-muted">
+                                <p className="card-text text-center">Juan Sebastian</p>
                             </div>
                         </div>
                     </div>
                     <div className="col-lg-4">
 
-                        <div class="card" >
-                            <img src={Image2} class="card-img-top w-75 m-auto" alt="..." />
-                            <div class="card-footer text-muted">
-                                <p class="card-text text-center">Zuleidy</p>
+                        <div className="card" >
+                            <img src={Image2} className="card-img-top w-75 m-auto" alt="..." />
+                            <div className="card-footer text-muted">
+                                <p className="card-text text-center">Zuleidy</p>
                             </div>
 
                         </div>
                     </div>
                     <div className="col-lg-4">
-                        <div class="card" >
-                            <img src={Image3} class="card-img-top w-75 m-auto" alt="..." />
-                            <div class="card-footer text-muted">
-                                <p class="card-text text-center">Andrés</p>
+                        <div className="card" >
+                            <img src={Image3} className="card-img-top w-75 m-auto" alt="..." />
+                            <div className="card-footer text-muted">
+                                <p className="card-text text-center">Andrés</p>
                             </div>
                         </div>
                     </div>

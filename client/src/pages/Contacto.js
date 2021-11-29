@@ -25,19 +25,19 @@ const Contacto = () => {
 
                     <div className="col-lg-6 mt-5">
                         <form>
-                            <div class="mb-3">
-                                <input type="text" class="form-control" placeholder="Nombres" />
+                            <div className="mb-3">
+                                <input type="text" className="form-control" placeholder="Nombres" />
                             </div>
-                            <div class="mb-3">
-                                <input type="email" class="form-control" placeholder="E-mail" />
+                            <div className="mb-3">
+                                <input type="email" className="form-control" placeholder="E-mail" />
                             </div>
-                            <div class="mb-3">
-                                <input type="tel" class="form-control" placeholder="Celular" />
+                            <div className="mb-3">
+                                <input type="tel" className="form-control" placeholder="Celular" />
                             </div>
-                            <div class="mb-3">
-                                <input type="text" class="form-control" placeholder="Mensaje" />
+                            <div className="mb-3">
+                                <input type="text" className="form-control" placeholder="Mensaje" />
                             </div>
-                            <button type="submit" class="btn btn-success text-white w-100">Submit</button>
+                            <button type="submit" className="btn btn-success text-white w-100">Submit</button>
                         </form>
                     </div>
                 </div>
